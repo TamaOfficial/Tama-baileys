@@ -1,2 +1,0 @@
-# Tama-baileys
-Baileys
